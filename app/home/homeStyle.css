@@ -1,0 +1,17 @@
+.slide {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background-color: #fac459;
+}
+
+.full-width-image {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    max-width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
